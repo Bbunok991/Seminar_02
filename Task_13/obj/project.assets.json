@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Bbuno\\.nuget\\packages\\": {},
+    "E:\\Program Files (х86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Seminar_02\\Task_13\\Task_13.csproj",
+      "projectUniqueName": "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_13\\Task_13.csproj",
       "projectName": "Task_13",
-      "projectPath": "C:\\Users\\user\\Desktop\\Seminar_02\\Task_13\\Task_13.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Seminar_02\\Task_13\\obj\\",
+      "projectPath": "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_13\\Task_13.csproj",
+      "packagesPath": "C:\\Users\\Bbuno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_13\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\Program Files (х86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bbuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

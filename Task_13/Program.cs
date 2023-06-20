@@ -10,20 +10,32 @@ int Input(string message)
     int output = Convert.ToInt32(Console.ReadLine());
     return output;
 }
+int number = Input("Enter a number: ");
 
-Console.Write("Enter a number: ");
-int number = Convert.ToInt32(Console.ReadLine());
-int result;
-if(number >= 100)
+int GetThirdDigit(string message)
 {
+    System.Console.Write(message);
+
     while(number > 999)
     {
         number = number / 10;
     }
-    Console.WriteLine(number % 10);
+    return number % 10;
 }
-else Console.WriteLine("There is no third digit.");
-
+bool CheckingTheNumber(int number)
+{
+    if(number < 100)
+    {
+        System.Console.WriteLine("You did not enter a three-digit number! Please repeat the input.");
+        return false;
+    }
+    return true;
+}
+if (CheckingTheNumber (number))
+{
+    int result = GetThirdDigit("The third digit is: ");
+    System.Console.WriteLine(result);
+}
 
 
 

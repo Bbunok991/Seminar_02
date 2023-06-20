@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Seminar_02\\Task_15\\Task_15.csproj": {}
+    "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_15\\Task_15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Seminar_02\\Task_15\\Task_15.csproj": {
+    "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_15\\Task_15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Seminar_02\\Task_15\\Task_15.csproj",
+        "projectUniqueName": "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_15\\Task_15.csproj",
         "projectName": "Task_15",
-        "projectPath": "C:\\Users\\user\\Desktop\\Seminar_02\\Task_15\\Task_15.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Seminar_02\\Task_15\\obj\\",
+        "projectPath": "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_15\\Task_15.csproj",
+        "packagesPath": "C:\\Users\\Bbuno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bbuno\\Desktop\\Seminar_02-main\\Task_15\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (х86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bbuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

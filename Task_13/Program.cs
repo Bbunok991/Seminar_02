@@ -4,6 +4,13 @@
 32679 -> 6*/
 
 using System;
+int Input(string message)
+{
+    Console.Write(message);
+    int output = Convert.ToInt32(Console.ReadLine());
+    return output;
+}
+
 Console.Write("Enter a number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int result;

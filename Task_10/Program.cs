@@ -10,11 +10,11 @@ int Input(string message)
     return output;
 }
 int number = Input("Enter a three-digit number: ");
-int result = 0;
+
 if (number < 100 || number >= 1000) System.Console.WriteLine("You did not enter a three-digit number! Please repeat the input.");
 else
 {
-    result = (number % 100) /10;
+    int result = (number % 100) /10;
     Console.WriteLine($"The second digit of the number {number}: {result}");
 }
 
